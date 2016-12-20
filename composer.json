@@ -1,0 +1,21 @@
+{
+    "name": "echotrue/yii2-area",
+    "description": "Yii2.0 area selecter",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "axlrose",
+            "email": "468090627@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "echotrue\\area\\": ""
+        }
+    }
+}
