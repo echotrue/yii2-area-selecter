@@ -1,13 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: axlrose
- * Date: 2016/12/20
- * Time: 下午2:12
- */
-
 namespace echotrue\area;
-
 
 use yii\web\AssetBundle;
 
@@ -17,7 +9,7 @@ class AreaAsset extends AssetBundle
         'assets/js/area.js',
     ];
     public $css = [
-
+        'assets/css/area.css',
     ];
 
     public $depends = [
